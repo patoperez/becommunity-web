@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next
+/out
+/build
+next-env.d.ts
+
+# cloudflare / wrangler
+/.vercel
+/.wrangler
+.dev.vars
+
+# entorno
+.env
+.env*.local
+
+# sistema
+.DS_Store
+*.pem
+npm-debug.log*
+yarn-error.log*
+
+# prototipo de trabajo (no forma parte del sitio)
+prototipo-home.html

@@ -1,0 +1,33 @@
+{
+  "name": "becommunity-web",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "pages:build": "npx @cloudflare/next-on-pages",
+    "preview": "npm run pages:build && npx wrangler pages dev",
+    "deploy": "npm run pages:build && npx wrangler pages deploy"
+  },
+  "dependencies": {
+    "framer-motion": "^11.15.0",
+    "next": "^15.3.0",
+    "next-intl": "^3.26.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.5",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.0",
+    "wrangler": "^3.90.0"
+  }
+}

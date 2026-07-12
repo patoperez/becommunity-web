@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Be Community — Construimos pertenencia",
+    "description": "Consultoría de experiencia y comunidad para colegios y empresas en la Zona Metropolitana de la Ciudad de México. Elevamos la retención, la satisfacción y el sentido de pertenencia."
+  },
+  "nav": {
+    "colegios": "Colegios",
+    "empresas": "Empresas",
+    "metodologia": "Metodología",
+    "casos": "Casos",
+    "recursos": "Recursos",
+    "cta": "Agenda una asesoría"
+  },
+  "hero": {
+    "kicker": "Experiencia y comunidad · Ciudad de México",
+    "titleA": "Construimos",
+    "titleEm": "pertenencia",
+    "lead": "Ayudamos a colegios y empresas de la Zona Metropolitana de la Ciudad de México a que sus comunidades quieran quedarse. Con método y con calidez.",
+    "cta1": "Descubre tu camino",
+    "cta2": "Ver metodología",
+    "art": "Muchas manos, una comunidad",
+    "v1": "Método propio de comunidad",
+    "v2": "Enfoque en pertenencia, no solo en calidad",
+    "v3": "Tecnología con calidez humana"
+  },
+  "paths": {
+    "kicker": "Elige tu camino",
+    "title": "Dos mundos, una misma manera de crear comunidad.",
+    "colegiosTag": "Colegios",
+    "colegiosTitle": "Soy Colegio",
+    "colegiosText": "Retén estudiantes, reduce la rotación docente y vuelve a tu colegio una comunidad que las familias no quieren dejar.",
+    "empresasTag": "Empresas",
+    "empresasTitle": "Soy Empresa",
+    "empresasText": "Convierte clientes en comunidad con consultoría en Customer Experience y transformación digital que sí se siente humana.",
+    "explore": "Explorar"
+  },
+  "manifesto": {
+    "kicker": "Manifiesto",
+    "l1": "La calidad",
+    "l2": "enseña.",
+    "l3": "La pertenencia",
+    "l4": "enamora.",
+    "l5": "Diseñamos la experiencia que hace que la gente quiera quedarse."
+  },
+  "services": {
+    "kicker": "Cómo trabajamos",
+    "title": "Un método, aplicado a cada punto de contacto.",
+    "s1Title": "Consultoría educativa personalizada",
+    "s1Text": "Diagnóstico y diseño de experiencias con valor agregado que diferencian a tu colegio y construyen comunidad.",
+    "s1Tag": "Colegios",
+    "s2Title": "Experiencia del cliente en comunidad",
+    "s2Text": "Optimizamos cada punto de contacto con IA, comunidades virtuales e inteligencia de negocios.",
+    "s2Tag": "Colegios · Empresas",
+    "s3Title": "Coaching del talento docente",
+    "s3Text": "Maestros felices, comunidades vibrantes. Reclutamiento, salario emocional y liderazgo directivo.",
+    "s3Tag": "Colegios",
+    "s4Title": "Transformación digital y CX",
+    "s4Text": "CRM, chatbots y workspaces para interacciones efectivas y cálidas que fidelizan clientes.",
+    "s4Tag": "Empresas"
+  },
+  "cta": {
+    "titleA": "¿Listo para que tu comunidad",
+    "titleEm": "quiera quedarse?",
+    "button": "Agenda una asesoría"
+  },
+  "footer": {
+    "desc": "Consultoría de experiencia y comunidad para colegios y empresas en la Zona Metropolitana de la Ciudad de México.",
+    "explore": "Explora",
+    "contact": "Contacto",
+    "legal": "Legal",
+    "privacy": "Aviso de privacidad",
+    "terms": "Términos",
+    "rights": "Todos los derechos reservados.",
+    "location": "Ciudad de México · México"
+  },
+  "colegiosPage": {
+    "meta": {
+      "title": "Consultoría para colegios | Be Community",
+      "description": "Consultoría educativa, coaching docente, experiencia de comunidad y marketing educativo para colegios en la Zona Metropolitana de la Ciudad de México. Más retención y pertenencia."
+    },
+    "hero": {
+      "kicker": "Para colegios · Zona Metropolitana de la CDMX",
+      "title": "Un colegio que las familias",
+      "titleEm": "no quieren dejar.",
+      "lead": "Acompañamos a colegios a construir comunidades educativas leales: más retención de estudiantes, familias comprometidas y docentes que se quedan. Con método y con calidez.",
+      "cta1": "Agenda un diagnóstico",
+      "cta2": "Conoce el método",
+      "art": "Comunidad educativa"
+    },
+    "pains": {
+      "kicker": "El reto",
+      "title": "La deserción no avisa. La pertenencia tampoco se improvisa.",
+      "items": [
+        { "title": "Estudiantes que se van", "text": "Cada familia que se cambia de colegio se lleva matrícula, reputación y años de relación. Retener es rentabilidad." },
+        { "title": "Docentes que rotan", "text": "La rotación docente rompe la continuidad pedagógica y el vínculo con las familias. Retener talento es retener comunidad." },
+        { "title": "Poca diferenciación", "text": "Cuando todos prometen 'calidad educativa', la experiencia y el sentido de pertenencia son lo que realmente distingue." },
+        { "title": "Familias distantes", "text": "Una comunidad que no se siente parte no recomienda, no defiende y no permanece. La pertenencia se diseña." }
+      ]
+    },
+    "services": {
+      "kicker": "Servicios",
+      "title": "Cuatro frentes para transformar tu comunidad educativa.",
+      "items": [
+        {
+          "title": "Consultoría educativa personalizada",
+          "promise": "Diseñamos experiencias con valor agregado que diferencian a tu colegio.",
+          "points": ["Diagnóstico de la experiencia actual", "Propuestas de valor diferenciadas de tu competencia", "Ambientes seguros, motivantes y enriquecedores"],
+          "result": "Un colegio que destaca por lo que se vive, no solo por lo que enseña."
+        },
+        {
+          "title": "Experiencia del cliente en comunidad",
+          "promise": "Optimizamos cada punto de contacto entre el colegio y su comunidad.",
+          "points": ["Mapa de experiencia de estudiantes y familias", "Inteligencia Artificial, comunidades virtuales e inteligencia de negocios", "Procesos que hacen sentir parte a cada familia"],
+          "result": "Comunidades leales que recomiendan y permanecen."
+        },
+        {
+          "title": "Coaching del talento docente",
+          "promise": "Maestros felices construyen experiencias educativas inolvidables.",
+          "points": ["Reclutamiento efectivo de talento", "Estrategias de salario emocional", "Desarrollo del liderazgo de los directores"],
+          "result": "Menos rotación, más compromiso y mejor clima."
+        },
+        {
+          "title": "Marketing educativo diferenciado",
+          "promise": "Comunicamos lo que hace único a tu colegio para atraer nuevas familias.",
+          "points": ["Estrategia de marca y comunicación", "Posicionamiento como referente en tu zona", "Integración a la red Be Community"],
+          "result": "Más familias interesadas y una marca que trasciende."
+        }
+      ]
+    },
+    "method": {
+      "kicker": "El método Be Community",
+      "title": "De diagnóstico a comunidad, en cuatro pasos.",
+      "steps": [
+        { "title": "Diagnóstico", "text": "Escuchamos a tu comunidad y medimos la experiencia real de estudiantes, familias y docentes." },
+        { "title": "Diseño", "text": "Creamos estrategias personalizadas según las necesidades y la identidad de tu colegio." },
+        { "title": "Implementación", "text": "Acompañamos la puesta en marcha con herramientas, procesos y tecnología." },
+        { "title": "Medición", "text": "Damos seguimiento a los indicadores y ajustamos para sostener resultados." }
+      ]
+    },
+    "benefits": {
+      "kicker": "Resultados",
+      "title": "Lo que gana tu colegio.",
+      "items": [
+        { "title": "Mayor retención", "text": "Menos deserción y una matrícula más estable año con año." },
+        { "title": "Familias comprometidas", "text": "Una comunidad que participa, recomienda y defiende a tu colegio." },
+        { "title": "Mejor clima docente", "text": "Equipos motivados que permanecen y elevan la experiencia." },
+        { "title": "Marca diferenciada", "text": "Un colegio reconocido por su comunidad y su experiencia." }
+      ]
+    },
+    "faq": {
+      "kicker": "Preguntas frecuentes",
+      "title": "Lo que suelen preguntarnos los colegios.",
+      "items": [
+        { "q": "¿En qué se diferencia Be Community de una agencia de marketing?", "a": "No solo comunicamos: rediseñamos la experiencia completa de tu comunidad educativa —estudiantes, familias y docentes— para que la retención y la pertenencia sean reales, no solo un mensaje." },
+        { "q": "¿Trabajan con colegios de cualquier tamaño?", "a": "Sí. Adaptamos el alcance del acompañamiento al tamaño y la etapa de cada colegio, desde instituciones pequeñas hasta grandes comunidades." },
+        { "q": "¿Cuánto dura un acompañamiento?", "a": "Depende del diagnóstico. Diseñamos planes por etapas, con entregables claros y medición continua para que veas avances desde las primeras semanas." },
+        { "q": "¿Atienden colegios fuera de la Ciudad de México?", "a": "Nuestra base está en la Zona Metropolitana de la CDMX, pero acompañamos colegios en otras regiones de forma presencial y remota." },
+        { "q": "¿Cómo empezamos?", "a": "Con un diagnóstico inicial. Agenda una asesoría y conversamos sobre las necesidades de tu comunidad." }
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para construir un colegio",
+      "titleEm": "que se quede en el corazón?",
+      "button": "Agenda un diagnóstico"
+    }
+  },
+  "empresasPage": {
+    "meta": {
+      "title": "Consultoría en Customer Experience | Be Community",
+      "description": "Consultoría CX, transformación digital y lealtad de marca para empresas y PyMEs en la Zona Metropolitana de la Ciudad de México. Convierte clientes en comunidad."
+    },
+    "hero": {
+      "kicker": "Para empresas · Zona Metropolitana de la CDMX",
+      "title": "Convierte clientes",
+      "titleEm": "en comunidad.",
+      "lead": "Acompañamos a empresas y PyMEs a construir experiencias que fidelizan: clientes que regresan, recomiendan y se quedan. Consultoría en Customer Experience con calidez humana.",
+      "cta1": "Agenda un diagnóstico",
+      "cta2": "Conoce el método",
+      "art": "Clientes en comunidad"
+    },
+    "pains": {
+      "kicker": "El reto",
+      "title": "Un cliente satisfecho compra. Un cliente que pertenece, se queda.",
+      "items": [
+        { "title": "Clientes que no regresan", "text": "Conseguir un cliente nuevo cuesta mucho más que retener uno. La lealtad es tu activo más rentable." },
+        { "title": "Experiencia inconsistente", "text": "Cuando cada punto de contacto se siente distinto, la marca pierde confianza. La coherencia construye lealtad." },
+        { "title": "Procesos fríos", "text": "La tecnología mal implementada aleja. Bien usada, hace que cada interacción se sienta cercana." },
+        { "title": "Decidir sin datos", "text": "Sin medir la experiencia, mejorarla es adivinar. Lo que no se mide, no se gestiona." }
+      ]
+    },
+    "services": {
+      "kicker": "Servicios",
+      "title": "Todo lo que necesitas para fidelizar clientes.",
+      "items": [
+        {
+          "title": "Consultoría en Customer Experience",
+          "promise": "Analizamos y rediseñamos la experiencia de tus clientes.",
+          "points": ["Diagnóstico de indicadores de CX", "Mapa del journey del cliente", "Recomendaciones con valor agregado"],
+          "result": "Experiencias que diferencian tu marca de la competencia."
+        },
+        {
+          "title": "Transformación digital",
+          "promise": "Optimizamos cada punto de contacto con la tecnología correcta.",
+          "points": ["Implementación de CRM", "Chatbots e interacciones automatizadas", "Workspaces y procesos digitales"],
+          "result": "Interacciones efectivas, cálidas y a escala."
+        },
+        {
+          "title": "Comunidad y lealtad de marca",
+          "promise": "Convertimos a tus clientes en una comunidad que te recomienda.",
+          "points": ["Estrategias de pertenencia y lealtad", "Comunidades de marca", "Programas de recomendación"],
+          "result": "Clientes que se quedan y traen a otros."
+        },
+        {
+          "title": "Inteligencia de negocios",
+          "promise": "Medimos la experiencia para tomar mejores decisiones.",
+          "points": ["Definición de indicadores (NPS, CSAT, CLV)", "Tableros de seguimiento", "Cultura de mejora continua"],
+          "result": "Decisiones basadas en datos, no en corazonadas."
+        }
+      ]
+    },
+    "method": {
+      "kicker": "El método Be Community",
+      "title": "De la fricción a la fidelidad, en cuatro pasos.",
+      "steps": [
+        { "title": "Diagnóstico CX", "text": "Medimos el estado actual de la experiencia de tus clientes y detectamos las fricciones." },
+        { "title": "Diseño del journey", "text": "Rediseñamos cada punto de contacto con foco en el cliente." },
+        { "title": "Implementación", "text": "Ponemos en marcha las herramientas digitales que hacen la diferencia." },
+        { "title": "Medición y mejora", "text": "Damos seguimiento a los indicadores y optimizamos de forma continua." }
+      ]
+    },
+    "benefits": {
+      "kicker": "Resultados",
+      "title": "Lo que gana tu empresa.",
+      "items": [
+        { "title": "Mayor retención", "text": "Clientes que regresan y aumentan su valor en el tiempo." },
+        { "title": "Marca recomendada", "text": "Clientes leales que se convierten en tus mejores promotores." },
+        { "title": "Procesos eficientes", "text": "Tecnología que ahorra tiempo y mejora cada interacción." },
+        { "title": "Decisiones con datos", "text": "Visibilidad clara de la experiencia para mejorar con certeza." }
+      ]
+    },
+    "faq": {
+      "kicker": "Preguntas frecuentes",
+      "title": "Lo que suelen preguntarnos las empresas.",
+      "items": [
+        { "q": "¿Qué es Customer Experience y por qué importa?", "a": "Es la suma de todas las percepciones que tu cliente tiene al interactuar con tu marca. Una buena experiencia aumenta la retención, la recomendación y el valor de cada cliente." },
+        { "q": "¿Trabajan con PyMEs?", "a": "Sí. Diseñamos soluciones a la medida de pequeñas y medianas empresas, con alcance y presupuesto ajustados a tu etapa." },
+        { "q": "¿Qué herramientas implementan?", "a": "Trabajamos con CRM, chatbots, workspaces y tableros de inteligencia de negocios, siempre elegidos según tus necesidades reales." },
+        { "q": "¿Necesito tener ya un CRM?", "a": "No. Podemos empezar desde cero: te ayudamos a elegir e implementar las herramientas adecuadas para tu operación." },
+        { "q": "¿Atienden empresas fuera de CDMX?", "a": "Nuestra base está en la Zona Metropolitana de la CDMX y acompañamos empresas en otras regiones de forma presencial y remota." }
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para convertir clientes",
+      "titleEm": "en comunidad?",
+      "button": "Agenda un diagnóstico"
+    }
+  }
+}

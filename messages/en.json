@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "Be Community — We build belonging",
+    "description": "Experience and community consulting for schools and companies in Greater Mexico City. We raise retention, satisfaction and belonging."
+  },
+  "nav": {
+    "colegios": "Schools",
+    "empresas": "Companies",
+    "metodologia": "Method",
+    "casos": "Cases",
+    "recursos": "Resources",
+    "cta": "Book a consult"
+  },
+  "hero": {
+    "kicker": "Experience & community · Mexico City",
+    "titleA": "We build",
+    "titleEm": "belonging",
+    "lead": "We help schools and companies across Greater Mexico City make their communities want to stay. With method and warmth.",
+    "cta1": "Find your path",
+    "cta2": "See our method",
+    "art": "Many hands, one community",
+    "v1": "Our own community method",
+    "v2": "Belonging, not just quality",
+    "v3": "Technology with human warmth"
+  },
+  "paths": {
+    "kicker": "Choose your path",
+    "title": "Two worlds, one way of building community.",
+    "colegiosTag": "Schools",
+    "colegiosTitle": "I'm a School",
+    "colegiosText": "Retain students, cut teacher turnover and turn your school into a community families never want to leave.",
+    "empresasTag": "Companies",
+    "empresasTitle": "I'm a Company",
+    "empresasText": "Turn customers into community with Customer Experience consulting and digital transformation that actually feels human.",
+    "explore": "Explore"
+  },
+  "manifesto": {
+    "kicker": "Manifesto",
+    "l1": "Quality",
+    "l2": "teaches.",
+    "l3": "Belonging",
+    "l4": "wins hearts.",
+    "l5": "We design the experience that makes people want to stay."
+  },
+  "services": {
+    "kicker": "How we work",
+    "title": "One method, applied to every touchpoint.",
+    "s1Title": "Personalized education consulting",
+    "s1Text": "Diagnosis and design of value-added experiences that differentiate your school and build community.",
+    "s1Tag": "Schools",
+    "s2Title": "Customer experience in community",
+    "s2Text": "We optimize every touchpoint with AI, virtual communities and business intelligence.",
+    "s2Tag": "Schools · Companies",
+    "s3Title": "Teacher talent coaching",
+    "s3Text": "Happy teachers, vibrant communities. Recruitment, emotional salary and leadership.",
+    "s3Tag": "Schools",
+    "s4Title": "Digital transformation & CX",
+    "s4Text": "CRM, chatbots and workspaces for effective, warm interactions that build loyalty.",
+    "s4Tag": "Companies"
+  },
+  "cta": {
+    "titleA": "Ready for your community to",
+    "titleEm": "want to stay?",
+    "button": "Book a consult"
+  },
+  "footer": {
+    "desc": "Experience and community consulting for schools and companies in Greater Mexico City.",
+    "explore": "Explore",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms",
+    "rights": "All rights reserved.",
+    "location": "Mexico City · Mexico"
+  },
+  "colegiosPage": {
+    "meta": {
+      "title": "Consulting for schools | Be Community",
+      "description": "Education consulting, teacher coaching, community experience and educational marketing for schools in Greater Mexico City. More retention and belonging."
+    },
+    "hero": {
+      "kicker": "For schools · Greater Mexico City",
+      "title": "A school families",
+      "titleEm": "never want to leave.",
+      "lead": "We help schools build loyal educational communities: higher student retention, engaged families and teachers who stay. With method and warmth.",
+      "cta1": "Book a diagnosis",
+      "cta2": "See the method",
+      "art": "Educational community"
+    },
+    "pains": {
+      "kicker": "The challenge",
+      "title": "Attrition gives no warning. Belonging can't be improvised.",
+      "items": [
+        { "title": "Students who leave", "text": "Every family that switches schools takes enrollment, reputation and years of relationship with them. Retention is profitability." },
+        { "title": "Teachers who turn over", "text": "Teacher turnover breaks pedagogical continuity and the bond with families. Retaining talent means retaining community." },
+        { "title": "Little differentiation", "text": "When everyone promises 'educational quality', experience and belonging are what truly set you apart." },
+        { "title": "Distant families", "text": "A community that doesn't feel part of something won't recommend, defend or stay. Belonging is designed." }
+      ]
+    },
+    "services": {
+      "kicker": "Services",
+      "title": "Four fronts to transform your educational community.",
+      "items": [
+        {
+          "title": "Personalized education consulting",
+          "promise": "We design value-added experiences that set your school apart.",
+          "points": ["Assessment of the current experience", "Value propositions that differ from competitors", "Safe, motivating and enriching environments"],
+          "result": "A school that stands out for what's lived, not just what's taught."
+        },
+        {
+          "title": "Customer experience in community",
+          "promise": "We optimize every touchpoint between the school and its community.",
+          "points": ["Experience map for students and families", "AI, virtual communities and business intelligence", "Processes that make every family feel part of it"],
+          "result": "Loyal communities that recommend and stay."
+        },
+        {
+          "title": "Teacher talent coaching",
+          "promise": "Happy teachers build unforgettable educational experiences.",
+          "points": ["Effective talent recruitment", "Emotional salary strategies", "Leadership development for principals"],
+          "result": "Less turnover, more commitment and a better climate."
+        },
+        {
+          "title": "Differentiated educational marketing",
+          "promise": "We communicate what makes your school unique to attract new families.",
+          "points": ["Brand and communication strategy", "Positioning as a reference in your area", "Integration into the Be Community network"],
+          "result": "More interested families and a brand that endures."
+        }
+      ]
+    },
+    "method": {
+      "kicker": "The Be Community method",
+      "title": "From diagnosis to community, in four steps.",
+      "steps": [
+        { "title": "Diagnosis", "text": "We listen to your community and measure the real experience of students, families and teachers." },
+        { "title": "Design", "text": "We create tailored strategies based on your school's needs and identity." },
+        { "title": "Implementation", "text": "We support the rollout with tools, processes and technology." },
+        { "title": "Measurement", "text": "We track indicators and adjust to sustain results." }
+      ]
+    },
+    "benefits": {
+      "kicker": "Results",
+      "title": "What your school gains.",
+      "items": [
+        { "title": "Higher retention", "text": "Less attrition and a more stable enrollment year over year." },
+        { "title": "Engaged families", "text": "A community that participates, recommends and defends your school." },
+        { "title": "Better teacher climate", "text": "Motivated teams that stay and raise the experience." },
+        { "title": "Differentiated brand", "text": "A school recognized for its community and its experience." }
+      ]
+    },
+    "faq": {
+      "kicker": "FAQ",
+      "title": "What schools usually ask us.",
+      "items": [
+        { "q": "How is Be Community different from a marketing agency?", "a": "We don't just communicate: we redesign your community's entire experience —students, families and teachers— so retention and belonging are real, not just a message." },
+        { "q": "Do you work with schools of any size?", "a": "Yes. We adapt the scope to the size and stage of each school, from small institutions to large communities." },
+        { "q": "How long does an engagement last?", "a": "It depends on the diagnosis. We design phased plans with clear deliverables and continuous measurement so you see progress within the first weeks." },
+        { "q": "Do you serve schools outside Mexico City?", "a": "Our base is in Greater Mexico City, but we support schools in other regions both in person and remotely." },
+        { "q": "How do we start?", "a": "With an initial diagnosis. Book a consult and let's talk about your community's needs." }
+      ]
+    },
+    "cta": {
+      "title": "Ready to build a school",
+      "titleEm": "that stays in the heart?",
+      "button": "Book a diagnosis"
+    }
+  },
+  "empresasPage": {
+    "meta": {
+      "title": "Customer Experience consulting | Be Community",
+      "description": "CX consulting, digital transformation and brand loyalty for companies and SMBs in Greater Mexico City. Turn customers into community."
+    },
+    "hero": {
+      "kicker": "For companies · Greater Mexico City",
+      "title": "Turn customers",
+      "titleEm": "into community.",
+      "lead": "We help companies and SMBs build experiences that create loyalty: customers who come back, recommend and stay. Customer Experience consulting with human warmth.",
+      "cta1": "Book a diagnosis",
+      "cta2": "See the method",
+      "art": "Customers in community"
+    },
+    "pains": {
+      "kicker": "The challenge",
+      "title": "A satisfied customer buys. A customer who belongs, stays.",
+      "items": [
+        { "title": "Customers who don't return", "text": "Winning a new customer costs far more than keeping one. Loyalty is your most profitable asset." },
+        { "title": "Inconsistent experience", "text": "When every touchpoint feels different, the brand loses trust. Consistency builds loyalty." },
+        { "title": "Cold processes", "text": "Poorly implemented technology pushes people away. Done right, it makes every interaction feel close." },
+        { "title": "Deciding without data", "text": "Without measuring the experience, improving it is guessing. What isn't measured isn't managed." }
+      ]
+    },
+    "services": {
+      "kicker": "Services",
+      "title": "Everything you need to build customer loyalty.",
+      "items": [
+        {
+          "title": "Customer Experience consulting",
+          "promise": "We analyze and redesign your customers' experience.",
+          "points": ["CX indicator assessment", "Customer journey mapping", "Value-added recommendations"],
+          "result": "Experiences that set your brand apart from competitors."
+        },
+        {
+          "title": "Digital transformation",
+          "promise": "We optimize every touchpoint with the right technology.",
+          "points": ["CRM implementation", "Chatbots and automated interactions", "Workspaces and digital processes"],
+          "result": "Effective, warm interactions at scale."
+        },
+        {
+          "title": "Community and brand loyalty",
+          "promise": "We turn your customers into a community that recommends you.",
+          "points": ["Belonging and loyalty strategies", "Brand communities", "Referral programs"],
+          "result": "Customers who stay and bring others."
+        },
+        {
+          "title": "Business intelligence",
+          "promise": "We measure the experience to make better decisions.",
+          "points": ["Indicator definition (NPS, CSAT, CLV)", "Tracking dashboards", "A continuous-improvement culture"],
+          "result": "Decisions based on data, not hunches."
+        }
+      ]
+    },
+    "method": {
+      "kicker": "The Be Community method",
+      "title": "From friction to loyalty, in four steps.",
+      "steps": [
+        { "title": "CX diagnosis", "text": "We measure the current state of your customers' experience and detect friction." },
+        { "title": "Journey design", "text": "We redesign every touchpoint with a customer focus." },
+        { "title": "Implementation", "text": "We roll out the digital tools that make the difference." },
+        { "title": "Measure & improve", "text": "We track indicators and optimize continuously." }
+      ]
+    },
+    "benefits": {
+      "kicker": "Results",
+      "title": "What your company gains.",
+      "items": [
+        { "title": "Higher retention", "text": "Customers who return and grow their value over time." },
+        { "title": "A recommended brand", "text": "Loyal customers who become your best promoters." },
+        { "title": "Efficient processes", "text": "Technology that saves time and improves every interaction." },
+        { "title": "Data-driven decisions", "text": "Clear visibility of the experience to improve with certainty." }
+      ]
+    },
+    "faq": {
+      "kicker": "FAQ",
+      "title": "What companies usually ask us.",
+      "items": [
+        { "q": "What is Customer Experience and why does it matter?", "a": "It's the sum of every perception your customer has when interacting with your brand. A good experience raises retention, referrals and the value of each customer." },
+        { "q": "Do you work with SMBs?", "a": "Yes. We design solutions tailored to small and medium businesses, with scope and budget matched to your stage." },
+        { "q": "What tools do you implement?", "a": "We work with CRM, chatbots, workspaces and business-intelligence dashboards, always chosen for your real needs." },
+        { "q": "Do I need to already have a CRM?", "a": "No. We can start from scratch: we help you choose and implement the right tools for your operation." },
+        { "q": "Do you serve companies outside Mexico City?", "a": "Our base is in Greater Mexico City and we support companies in other regions both in person and remotely." }
+      ]
+    },
+    "cta": {
+      "title": "Ready to turn customers",
+      "titleEm": "into community?",
+      "button": "Book a diagnosis"
+    }
+  }
+}

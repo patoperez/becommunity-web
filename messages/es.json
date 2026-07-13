@@ -473,5 +473,166 @@
       "phoneLabel": "Teléfono",
       "phone": "+52 55 5351 6276"
     }
+  },
+  "casos": {
+    "meta": {
+      "title": "Casos de éxito | Be Community",
+      "description": "Casos de éxito de Be Community: colegios y empresas que transformaron su comunidad, su retención y su experiencia."
+    },
+    "kicker": "Casos de éxito",
+    "title": "Resultados que se quedan.",
+    "lead": "Comunidades que decidieron quedarse. Estos son algunos de los colegios y empresas con los que hemos trabajado.",
+    "filterAll": "Todos",
+    "filterColegios": "Colegios",
+    "filterEmpresas": "Empresas",
+    "colegioTag": "Colegio",
+    "empresaTag": "Empresa",
+    "viewCase": "Ver caso",
+    "backToCases": "Volver a casos",
+    "challengeTitle": "El reto",
+    "solutionTitle": "Lo que hicimos",
+    "resultsTitle": "Resultados",
+    "metricsTitle": "En números",
+    "ctaTitle": "¿Quieres resultados así en tu comunidad?",
+    "ctaButton": "Agenda una asesoría",
+    "relatedTitle": "Más casos",
+    "items": [
+      {
+        "slug": "colegio-monteverde",
+        "vertical": "colegios",
+        "client": "Colegio Monteverde",
+        "tagline": "De la deserción silenciosa a una comunidad que se queda.",
+        "summary": "Rediseñamos la experiencia de familias y docentes para frenar la deserción y fortalecer el sentido de pertenencia.",
+        "metrics": [
+          {
+            "value": "+18%",
+            "label": "Retención de estudiantes"
+          },
+          {
+            "value": "74",
+            "label": "NPS de familias"
+          },
+          {
+            "value": "-25%",
+            "label": "Rotación docente"
+          }
+        ],
+        "challenge": "El colegio perdía familias cada ciclo sin entender del todo por qué, y la rotación docente rompía la continuidad pedagógica y el vínculo con la comunidad.",
+        "solutionIntro": "Diseñamos un plan por etapas centrado en la experiencia de toda la comunidad:",
+        "solution": [
+          "Diagnóstico de la experiencia de estudiantes, familias y docentes.",
+          "Rediseño de los momentos clave: admisión, bienvenida y seguimiento.",
+          "Programa de salario emocional y liderazgo para el equipo docente."
+        ],
+        "results": "En un ciclo escolar, la retención subió y el clima docente mejoró de forma medible. Hoy las familias están más comprometidas y recomiendan al colegio.",
+        "quote": {
+          "text": "Por primera vez sentimos que las familias son parte del proyecto, no solo clientes.",
+          "author": "Dirección General",
+          "role": "Colegio Monteverde"
+        }
+      },
+      {
+        "slug": "instituto-altavista",
+        "vertical": "colegios",
+        "client": "Instituto Altavista",
+        "tagline": "Más familias nuevas, sin competir por precio.",
+        "summary": "Reposicionamos la marca del instituto para atraer a las familias correctas y llenar su proceso de admisión.",
+        "metrics": [
+          {
+            "value": "+40%",
+            "label": "Leads de inscripción"
+          },
+          {
+            "value": "+22%",
+            "label": "Matrícula nueva"
+          },
+          {
+            "value": "3x",
+            "label": "Alcance en redes"
+          }
+        ],
+        "challenge": "El instituto competía por precio y su comunicación no reflejaba el valor real de su propuesta educativa.",
+        "solutionIntro": "Construimos una estrategia de marca y comunicación diferenciada:",
+        "solution": [
+          "Definición de la propuesta de valor y el tono de la marca.",
+          "Contenido para posicionar al instituto como referente en su zona.",
+          "Embudo de admisión con seguimiento a cada familia interesada."
+        ],
+        "results": "La marca dejó de competir por precio y empezó a atraer familias alineadas con su propuesta, aumentando la matrícula nueva ciclo con ciclo.",
+        "quote": {
+          "text": "Ahora nos buscan las familias que de verdad encajan con nosotros.",
+          "author": "Coordinación de Admisiones",
+          "role": "Instituto Altavista"
+        }
+      },
+      {
+        "slug": "marca-aurora",
+        "vertical": "empresas",
+        "client": "Marca Aurora",
+        "tagline": "Clientes que compraban una vez, ahora vuelven.",
+        "summary": "Rediseñamos la experiencia de cliente de una marca de retail para convertir compras únicas en lealtad.",
+        "metrics": [
+          {
+            "value": "+31%",
+            "label": "Tasa de recompra"
+          },
+          {
+            "value": "92%",
+            "label": "CSAT"
+          },
+          {
+            "value": "+45",
+            "label": "NPS"
+          }
+        ],
+        "challenge": "La marca invertía en atraer clientes nuevos, pero muy pocos regresaban tras la primera compra.",
+        "solutionIntro": "Mapeamos y rediseñamos el journey completo del cliente:",
+        "solution": [
+          "Diagnóstico de indicadores de CX y puntos de fricción.",
+          "Implementación de CRM y comunicación postventa cálida.",
+          "Programa de lealtad y comunidad de marca."
+        ],
+        "results": "La recompra creció de forma sostenida y la marca construyó una base de clientes que hoy la recomienda activamente.",
+        "quote": {
+          "text": "Dejamos de perseguir clientes nuevos para cuidar a los que ya nos querían.",
+          "author": "Dirección Comercial",
+          "role": "Marca Aurora"
+        }
+      },
+      {
+        "slug": "grupo-nodo",
+        "vertical": "empresas",
+        "client": "Grupo Nodo",
+        "tagline": "Procesos fríos que ahora se sienten cercanos.",
+        "summary": "Digitalizamos la operación de atención de una PyME sin perder la calidez humana.",
+        "metrics": [
+          {
+            "value": "-30%",
+            "label": "Tiempo de respuesta"
+          },
+          {
+            "value": "+27%",
+            "label": "Retención de clientes"
+          },
+          {
+            "value": "2x",
+            "label": "Capacidad de atención"
+          }
+        ],
+        "challenge": "La atención al cliente era manual, lenta e inconsistente, y el equipo no daba abasto.",
+        "solutionIntro": "Implementamos tecnología al servicio de la experiencia:",
+        "solution": [
+          "CRM y flujos automatizados para las tareas repetitivas.",
+          "Chatbot e interacciones que resuelven sin enfriar el trato.",
+          "Tableros para medir y mejorar de forma continua."
+        ],
+        "results": "El equipo hoy atiende más y mejor, con clientes más satisfechos y procesos que escalan sin perder cercanía.",
+        "quote": {
+          "text": "La tecnología nos quitó lo tedioso para poder enfocarnos en las personas.",
+          "author": "Operaciones",
+          "role": "Grupo Nodo"
+        }
+      }
+    ]
   }
 }

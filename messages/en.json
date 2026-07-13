@@ -473,5 +473,166 @@
       "phoneLabel": "Phone",
       "phone": "+52 55 5351 6276"
     }
+  },
+  "casos": {
+    "meta": {
+      "title": "Case studies | Be Community",
+      "description": "Be Community case studies: schools and companies that transformed their community, retention and experience."
+    },
+    "kicker": "Case studies",
+    "title": "Results that stay.",
+    "lead": "Communities that chose to stay. These are some of the schools and companies we have worked with.",
+    "filterAll": "All",
+    "filterColegios": "Schools",
+    "filterEmpresas": "Companies",
+    "colegioTag": "School",
+    "empresaTag": "Company",
+    "viewCase": "View case",
+    "backToCases": "Back to cases",
+    "challengeTitle": "The challenge",
+    "solutionTitle": "What we did",
+    "resultsTitle": "Results",
+    "metricsTitle": "In numbers",
+    "ctaTitle": "Want results like these in your community?",
+    "ctaButton": "Book a consult",
+    "relatedTitle": "More cases",
+    "items": [
+      {
+        "slug": "colegio-monteverde",
+        "vertical": "colegios",
+        "client": "Colegio Monteverde",
+        "tagline": "From silent attrition to a community that stays.",
+        "summary": "We redesigned the experience of families and teachers to curb attrition and strengthen belonging.",
+        "metrics": [
+          {
+            "value": "+18%",
+            "label": "Student retention"
+          },
+          {
+            "value": "74",
+            "label": "Family NPS"
+          },
+          {
+            "value": "-25%",
+            "label": "Teacher turnover"
+          }
+        ],
+        "challenge": "The school lost families every year without fully understanding why, and teacher turnover broke pedagogical continuity and the bond with the community.",
+        "solutionIntro": "We designed a phased plan centered on the whole community's experience:",
+        "solution": [
+          "Assessment of the experience of students, families and teachers.",
+          "Redesign of key moments: admission, welcome and follow-up.",
+          "An emotional-salary and leadership program for the teaching team."
+        ],
+        "results": "Within one school year, retention rose and the teaching climate improved measurably. Families are now more engaged and recommend the school.",
+        "quote": {
+          "text": "For the first time, families feel part of the project, not just clients.",
+          "author": "General Direction",
+          "role": "Colegio Monteverde"
+        }
+      },
+      {
+        "slug": "instituto-altavista",
+        "vertical": "colegios",
+        "client": "Instituto Altavista",
+        "tagline": "More new families, without competing on price.",
+        "summary": "We repositioned the institute's brand to attract the right families and fill its admissions pipeline.",
+        "metrics": [
+          {
+            "value": "+40%",
+            "label": "Enrollment leads"
+          },
+          {
+            "value": "+22%",
+            "label": "New enrollment"
+          },
+          {
+            "value": "3x",
+            "label": "Social reach"
+          }
+        ],
+        "challenge": "The institute competed on price and its communication didn't reflect the real value of its educational offering.",
+        "solutionIntro": "We built a differentiated brand and communication strategy:",
+        "solution": [
+          "Definition of the value proposition and brand tone.",
+          "Content to position the institute as a reference in its area.",
+          "An admissions funnel with follow-up for every interested family."
+        ],
+        "results": "The brand stopped competing on price and began attracting families aligned with its offering, increasing new enrollment year over year.",
+        "quote": {
+          "text": "Now the families who truly fit us are the ones reaching out.",
+          "author": "Admissions Office",
+          "role": "Instituto Altavista"
+        }
+      },
+      {
+        "slug": "marca-aurora",
+        "vertical": "empresas",
+        "client": "Marca Aurora",
+        "tagline": "Customers who bought once now come back.",
+        "summary": "We redesigned a retail brand's customer experience to turn one-time purchases into loyalty.",
+        "metrics": [
+          {
+            "value": "+31%",
+            "label": "Repurchase rate"
+          },
+          {
+            "value": "92%",
+            "label": "CSAT"
+          },
+          {
+            "value": "+45",
+            "label": "NPS"
+          }
+        ],
+        "challenge": "The brand invested in acquiring new customers, but very few returned after their first purchase.",
+        "solutionIntro": "We mapped and redesigned the full customer journey:",
+        "solution": [
+          "Assessment of CX indicators and friction points.",
+          "CRM implementation and warm post-sale communication.",
+          "A loyalty program and brand community."
+        ],
+        "results": "Repurchase grew steadily and the brand built a base of customers who now actively recommend it.",
+        "quote": {
+          "text": "We stopped chasing new customers to take care of the ones who already loved us.",
+          "author": "Commercial Direction",
+          "role": "Marca Aurora"
+        }
+      },
+      {
+        "slug": "grupo-nodo",
+        "vertical": "empresas",
+        "client": "Grupo Nodo",
+        "tagline": "Cold processes that now feel close.",
+        "summary": "We digitized an SMB's service operation without losing its human warmth.",
+        "metrics": [
+          {
+            "value": "-30%",
+            "label": "Response time"
+          },
+          {
+            "value": "+27%",
+            "label": "Customer retention"
+          },
+          {
+            "value": "2x",
+            "label": "Service capacity"
+          }
+        ],
+        "challenge": "Customer service was manual, slow and inconsistent, and the team couldn't keep up.",
+        "solutionIntro": "We put technology at the service of the experience:",
+        "solution": [
+          "CRM and automated flows for repetitive tasks.",
+          "A chatbot and interactions that resolve without cooling the relationship.",
+          "Dashboards to measure and improve continuously."
+        ],
+        "results": "The team now serves more and better, with more satisfied customers and processes that scale without losing closeness.",
+        "quote": {
+          "text": "Technology took away the tedious work so we could focus on people.",
+          "author": "Operations",
+          "role": "Grupo Nodo"
+        }
+      }
+    ]
   }
 }

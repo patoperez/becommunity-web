@@ -45,6 +45,9 @@ export function Footer() {
             <a href="https://www.linkedin.com/company/be-community-mexico/" className="mb-2.5 block text-[0.95rem] opacity-85 transition-colors hover:text-yellow">
               LinkedIn
             </a>
+            <a href="https://www.facebook.com/profile.php?id=61582629719622" className="mb-2.5 block text-[0.95rem] opacity-85 transition-colors hover:text-yellow">
+              Facebook
+            </a>
           </div>
 
           <div>

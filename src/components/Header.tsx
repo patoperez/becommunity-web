@@ -37,7 +37,6 @@ export function Header() {
   const links: { href: string; label: string }[] = [
     { href: "/colegios", label: t("colegios") },
     { href: "/empresas", label: t("empresas") },
-    { href: "/#servicios", label: t("metodologia") },
     { href: "/#servicios", label: t("casos") },
     { href: "/#servicios", label: t("recursos") },
   ];

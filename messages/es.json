@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Be Community — Construimos pertenencia",
-    "description": "Consultoría de experiencia y comunidad para colegios y empresas en la Zona Metropolitana de la Ciudad de México. Elevamos la retención, la satisfacción y el sentido de pertenencia."
+    "description": "Consultoría de experiencia y comunidad para colegios y empresas en la Zona Metropolitana del Valle de México. Elevamos la retención, la satisfacción y el sentido de pertenencia."
   },
   "nav": {
     "colegios": "Colegios",
@@ -15,7 +15,7 @@
     "kicker": "Experiencia y comunidad · Ciudad de México",
     "titleA": "Construimos",
     "titleEm": "pertenencia",
-    "lead": "Ayudamos a colegios y empresas de la Zona Metropolitana de la Ciudad de México a que sus comunidades quieran quedarse. Con método y con calidez.",
+    "lead": "Ayudamos a colegios y empresas de la Zona Metropolitana del Valle de México a que sus comunidades quieran quedarse. Con método y con calidez.",
     "cta1": "Descubre tu camino",
     "cta2": "Ver metodología",
     "art": "Muchas manos, una comunidad",
@@ -64,7 +64,7 @@
     "button": "Agenda una asesoría"
   },
   "footer": {
-    "desc": "Consultoría de experiencia y comunidad para colegios y empresas en la Zona Metropolitana de la Ciudad de México.",
+    "desc": "Consultoría de experiencia y comunidad para colegios y empresas en la Zona Metropolitana del Valle de México.",
     "explore": "Explora",
     "contact": "Contacto",
     "legal": "Legal",
@@ -76,10 +76,10 @@
   "colegiosPage": {
     "meta": {
       "title": "Consultoría para colegios | Be Community",
-      "description": "Consultoría educativa, coaching docente, experiencia de comunidad y marketing educativo para colegios en la Zona Metropolitana de la Ciudad de México. Más retención y pertenencia."
+      "description": "Consultoría educativa, coaching docente, experiencia de comunidad y marketing educativo para colegios en la Zona Metropolitana del Valle de México. Más retención y pertenencia."
     },
     "hero": {
-      "kicker": "Para colegios · Zona Metropolitana de la CDMX",
+      "kicker": "Para colegios · Zona Metropolitana del Valle de México",
       "title": "Un colegio que las familias",
       "titleEm": "no quieren dejar.",
       "lead": "Acompañamos a colegios a construir comunidades educativas leales: más retención de estudiantes, familias comprometidas y docentes que se quedan. Con método y con calidez.",
@@ -217,7 +217,7 @@
         },
         {
           "q": "¿Atienden colegios fuera de la Ciudad de México?",
-          "a": "Nuestra base está en la Zona Metropolitana de la CDMX, pero acompañamos colegios en otras regiones de forma presencial y remota."
+          "a": "Nuestra base está en la Zona Metropolitana del Valle de México, pero acompañamos colegios en otras regiones de forma presencial y remota."
         },
         {
           "q": "¿Cómo empezamos?",
@@ -234,10 +234,10 @@
   "empresasPage": {
     "meta": {
       "title": "Consultoría en Customer Experience | Be Community",
-      "description": "Consultoría CX, transformación digital y lealtad de marca para empresas y PyMEs en la Zona Metropolitana de la Ciudad de México. Convierte clientes en comunidad."
+      "description": "Consultoría CX, transformación digital y lealtad de marca para empresas y PyMEs en la Zona Metropolitana del Valle de México. Convierte clientes en comunidad."
     },
     "hero": {
-      "kicker": "Para empresas · Zona Metropolitana de la CDMX",
+      "kicker": "Para empresas · Zona Metropolitana del Valle de México",
       "title": "Convierte clientes",
       "titleEm": "en comunidad.",
       "lead": "Acompañamos a empresas y PyMEs a construir experiencias que fidelizan: clientes que regresan, recomiendan y se quedan. Consultoría en Customer Experience con calidez humana.",
@@ -379,7 +379,7 @@
         },
         {
           "q": "¿Atienden empresas fuera de CDMX?",
-          "a": "Nuestra base está en la Zona Metropolitana de la CDMX y acompañamos empresas en otras regiones de forma presencial y remota."
+          "a": "Nuestra base está en la Zona Metropolitana del Valle de México y acompañamos empresas en otras regiones de forma presencial y remota."
         }
       ]
     },

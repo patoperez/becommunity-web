@@ -68,7 +68,7 @@ export default async function ColegiosPage({
     },
     areaServed: {
       "@type": "City",
-      name: "Zona Metropolitana de la Ciudad de México",
+      name: "Zona Metropolitana del Valle de México",
     },
     description: t("meta.description"),
   };

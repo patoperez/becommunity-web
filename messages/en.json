@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Be Community — We build belonging",
-    "description": "Experience and community consulting for schools and companies in Greater Mexico City. We raise retention, satisfaction and belonging."
+    "description": "Experience and community consulting for schools and companies in Mexico City Metropolitan Area. We raise retention, satisfaction and belonging."
   },
   "nav": {
     "colegios": "Schools",
@@ -15,7 +15,7 @@
     "kicker": "Experience & community · Mexico City",
     "titleA": "We build",
     "titleEm": "belonging",
-    "lead": "We help schools and companies across Greater Mexico City make their communities want to stay. With method and warmth.",
+    "lead": "We help schools and companies across Mexico City Metropolitan Area make their communities want to stay. With method and warmth.",
     "cta1": "Find your path",
     "cta2": "See our method",
     "art": "Many hands, one community",
@@ -64,7 +64,7 @@
     "button": "Book a consult"
   },
   "footer": {
-    "desc": "Experience and community consulting for schools and companies in Greater Mexico City.",
+    "desc": "Experience and community consulting for schools and companies in Mexico City Metropolitan Area.",
     "explore": "Explore",
     "contact": "Contact",
     "legal": "Legal",
@@ -76,10 +76,10 @@
   "colegiosPage": {
     "meta": {
       "title": "Consulting for schools | Be Community",
-      "description": "Education consulting, teacher coaching, community experience and educational marketing for schools in Greater Mexico City. More retention and belonging."
+      "description": "Education consulting, teacher coaching, community experience and educational marketing for schools in Mexico City Metropolitan Area. More retention and belonging."
     },
     "hero": {
-      "kicker": "For schools · Greater Mexico City",
+      "kicker": "For schools · Mexico City Metropolitan Area",
       "title": "A school families",
       "titleEm": "never want to leave.",
       "lead": "We help schools build loyal educational communities: higher student retention, engaged families and teachers who stay. With method and warmth.",
@@ -217,7 +217,7 @@
         },
         {
           "q": "Do you serve schools outside Mexico City?",
-          "a": "Our base is in Greater Mexico City, but we support schools in other regions both in person and remotely."
+          "a": "Our base is in Mexico City Metropolitan Area, but we support schools in other regions both in person and remotely."
         },
         {
           "q": "How do we start?",
@@ -234,10 +234,10 @@
   "empresasPage": {
     "meta": {
       "title": "Customer Experience consulting | Be Community",
-      "description": "CX consulting, digital transformation and brand loyalty for companies and SMBs in Greater Mexico City. Turn customers into community."
+      "description": "CX consulting, digital transformation and brand loyalty for companies and SMBs in Mexico City Metropolitan Area. Turn customers into community."
     },
     "hero": {
-      "kicker": "For companies · Greater Mexico City",
+      "kicker": "For companies · Mexico City Metropolitan Area",
       "title": "Turn customers",
       "titleEm": "into community.",
       "lead": "We help companies and SMBs build experiences that create loyalty: customers who come back, recommend and stay. Customer Experience consulting with human warmth.",
@@ -379,7 +379,7 @@
         },
         {
           "q": "Do you serve companies outside Mexico City?",
-          "a": "Our base is in Greater Mexico City and we support companies in other regions both in person and remotely."
+          "a": "Our base is in Mexico City Metropolitan Area and we support companies in other regions both in person and remotely."
         }
       ]
     },

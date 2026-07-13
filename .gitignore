@@ -26,3 +26,6 @@ yarn-error.log*
 
 # prototipo de trabajo (no forma parte del sitio)
 prototipo-home.html
+
+# pruebas de render (borrar manualmente)
+_handtest/

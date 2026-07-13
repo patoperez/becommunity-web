@@ -51,9 +51,9 @@ export function Footer() {
             <h4 className="mb-5 text-[0.76rem] font-semibold uppercase tracking-[0.14em] opacity-50">
               {t("footer.legal")}
             </h4>
-            <a href="#" className="mb-2.5 block text-[0.95rem] opacity-85 transition-colors hover:text-yellow">
+            <Link href="/aviso-de-privacidad" className="mb-2.5 block text-[0.95rem] opacity-85 transition-colors hover:text-yellow">
               {t("footer.privacy")}
-            </a>
+            </Link>
             <a href="#" className="mb-2.5 block text-[0.95rem] opacity-85 transition-colors hover:text-yellow">
               {t("footer.terms")}
             </a>

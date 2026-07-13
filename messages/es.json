@@ -91,10 +91,22 @@
       "kicker": "El reto",
       "title": "La deserción no avisa. La pertenencia tampoco se improvisa.",
       "items": [
-        { "title": "Estudiantes que se van", "text": "Cada familia que se cambia de colegio se lleva matrícula, reputación y años de relación. Retener es rentabilidad." },
-        { "title": "Docentes que rotan", "text": "La rotación docente rompe la continuidad pedagógica y el vínculo con las familias. Retener talento es retener comunidad." },
-        { "title": "Poca diferenciación", "text": "Cuando todos prometen 'calidad educativa', la experiencia y el sentido de pertenencia son lo que realmente distingue." },
-        { "title": "Familias distantes", "text": "Una comunidad que no se siente parte no recomienda, no defiende y no permanece. La pertenencia se diseña." }
+        {
+          "title": "Estudiantes que se van",
+          "text": "Cada familia que se cambia de colegio se lleva matrícula, reputación y años de relación. Retener es rentabilidad."
+        },
+        {
+          "title": "Docentes que rotan",
+          "text": "La rotación docente rompe la continuidad pedagógica y el vínculo con las familias. Retener talento es retener comunidad."
+        },
+        {
+          "title": "Poca diferenciación",
+          "text": "Cuando todos prometen 'calidad educativa', la experiencia y el sentido de pertenencia son lo que realmente distingue."
+        },
+        {
+          "title": "Familias distantes",
+          "text": "Una comunidad que no se siente parte no recomienda, no defiende y no permanece. La pertenencia se diseña."
+        }
       ]
     },
     "services": {
@@ -104,25 +116,41 @@
         {
           "title": "Consultoría educativa personalizada",
           "promise": "Diseñamos experiencias con valor agregado que diferencian a tu colegio.",
-          "points": ["Diagnóstico de la experiencia actual", "Propuestas de valor diferenciadas de tu competencia", "Ambientes seguros, motivantes y enriquecedores"],
+          "points": [
+            "Diagnóstico de la experiencia actual",
+            "Propuestas de valor diferenciadas de tu competencia",
+            "Ambientes seguros, motivantes y enriquecedores"
+          ],
           "result": "Un colegio que destaca por lo que se vive, no solo por lo que enseña."
         },
         {
           "title": "Experiencia del cliente en comunidad",
           "promise": "Optimizamos cada punto de contacto entre el colegio y su comunidad.",
-          "points": ["Mapa de experiencia de estudiantes y familias", "Inteligencia Artificial, comunidades virtuales e inteligencia de negocios", "Procesos que hacen sentir parte a cada familia"],
+          "points": [
+            "Mapa de experiencia de estudiantes y familias",
+            "Inteligencia Artificial, comunidades virtuales e inteligencia de negocios",
+            "Procesos que hacen sentir parte a cada familia"
+          ],
           "result": "Comunidades leales que recomiendan y permanecen."
         },
         {
           "title": "Coaching del talento docente",
           "promise": "Maestros felices construyen experiencias educativas inolvidables.",
-          "points": ["Reclutamiento efectivo de talento", "Estrategias de salario emocional", "Desarrollo del liderazgo de los directores"],
+          "points": [
+            "Reclutamiento efectivo de talento",
+            "Estrategias de salario emocional",
+            "Desarrollo del liderazgo de los directores"
+          ],
           "result": "Menos rotación, más compromiso y mejor clima."
         },
         {
           "title": "Marketing educativo diferenciado",
           "promise": "Comunicamos lo que hace único a tu colegio para atraer nuevas familias.",
-          "points": ["Estrategia de marca y comunicación", "Posicionamiento como referente en tu zona", "Integración a la red Be Community"],
+          "points": [
+            "Estrategia de marca y comunicación",
+            "Posicionamiento como referente en tu zona",
+            "Integración a la red Be Community"
+          ],
           "result": "Más familias interesadas y una marca que trasciende."
         }
       ]
@@ -131,31 +159,70 @@
       "kicker": "El método Be Community",
       "title": "De diagnóstico a comunidad, en cuatro pasos.",
       "steps": [
-        { "title": "Diagnóstico", "text": "Escuchamos a tu comunidad y medimos la experiencia real de estudiantes, familias y docentes." },
-        { "title": "Diseño", "text": "Creamos estrategias personalizadas según las necesidades y la identidad de tu colegio." },
-        { "title": "Implementación", "text": "Acompañamos la puesta en marcha con herramientas, procesos y tecnología." },
-        { "title": "Medición", "text": "Damos seguimiento a los indicadores y ajustamos para sostener resultados." }
+        {
+          "title": "Diagnóstico",
+          "text": "Escuchamos a tu comunidad y medimos la experiencia real de estudiantes, familias y docentes."
+        },
+        {
+          "title": "Diseño",
+          "text": "Creamos estrategias personalizadas según las necesidades y la identidad de tu colegio."
+        },
+        {
+          "title": "Implementación",
+          "text": "Acompañamos la puesta en marcha con herramientas, procesos y tecnología."
+        },
+        {
+          "title": "Medición",
+          "text": "Damos seguimiento a los indicadores y ajustamos para sostener resultados."
+        }
       ]
     },
     "benefits": {
       "kicker": "Resultados",
       "title": "Lo que gana tu colegio.",
       "items": [
-        { "title": "Mayor retención", "text": "Menos deserción y una matrícula más estable año con año." },
-        { "title": "Familias comprometidas", "text": "Una comunidad que participa, recomienda y defiende a tu colegio." },
-        { "title": "Mejor clima docente", "text": "Equipos motivados que permanecen y elevan la experiencia." },
-        { "title": "Marca diferenciada", "text": "Un colegio reconocido por su comunidad y su experiencia." }
+        {
+          "title": "Mayor retención",
+          "text": "Menos deserción y una matrícula más estable año con año."
+        },
+        {
+          "title": "Familias comprometidas",
+          "text": "Una comunidad que participa, recomienda y defiende a tu colegio."
+        },
+        {
+          "title": "Mejor clima docente",
+          "text": "Equipos motivados que permanecen y elevan la experiencia."
+        },
+        {
+          "title": "Marca diferenciada",
+          "text": "Un colegio reconocido por su comunidad y su experiencia."
+        }
       ]
     },
     "faq": {
       "kicker": "Preguntas frecuentes",
       "title": "Lo que suelen preguntarnos los colegios.",
       "items": [
-        { "q": "¿En qué se diferencia Be Community de una agencia de marketing?", "a": "No solo comunicamos: rediseñamos la experiencia completa de tu comunidad educativa —estudiantes, familias y docentes— para que la retención y la pertenencia sean reales, no solo un mensaje." },
-        { "q": "¿Trabajan con colegios de cualquier tamaño?", "a": "Sí. Adaptamos el alcance del acompañamiento al tamaño y la etapa de cada colegio, desde instituciones pequeñas hasta grandes comunidades." },
-        { "q": "¿Cuánto dura un acompañamiento?", "a": "Depende del diagnóstico. Diseñamos planes por etapas, con entregables claros y medición continua para que veas avances desde las primeras semanas." },
-        { "q": "¿Atienden colegios fuera de la Ciudad de México?", "a": "Nuestra base está en la Zona Metropolitana de la CDMX, pero acompañamos colegios en otras regiones de forma presencial y remota." },
-        { "q": "¿Cómo empezamos?", "a": "Con un diagnóstico inicial. Agenda una asesoría y conversamos sobre las necesidades de tu comunidad." }
+        {
+          "q": "¿En qué se diferencia Be Community de una agencia de marketing?",
+          "a": "No solo comunicamos: rediseñamos la experiencia completa de tu comunidad educativa —estudiantes, familias y docentes— para que la retención y la pertenencia sean reales, no solo un mensaje."
+        },
+        {
+          "q": "¿Trabajan con colegios de cualquier tamaño?",
+          "a": "Sí. Adaptamos el alcance del acompañamiento al tamaño y la etapa de cada colegio, desde instituciones pequeñas hasta grandes comunidades."
+        },
+        {
+          "q": "¿Cuánto dura un acompañamiento?",
+          "a": "Depende del diagnóstico. Diseñamos planes por etapas, con entregables claros y medición continua para que veas avances desde las primeras semanas."
+        },
+        {
+          "q": "¿Atienden colegios fuera de la Ciudad de México?",
+          "a": "Nuestra base está en la Zona Metropolitana de la CDMX, pero acompañamos colegios en otras regiones de forma presencial y remota."
+        },
+        {
+          "q": "¿Cómo empezamos?",
+          "a": "Con un diagnóstico inicial. Agenda una asesoría y conversamos sobre las necesidades de tu comunidad."
+        }
       ]
     },
     "cta": {
@@ -182,10 +249,22 @@
       "kicker": "El reto",
       "title": "Un cliente satisfecho compra. Un cliente que pertenece, se queda.",
       "items": [
-        { "title": "Clientes que no regresan", "text": "Conseguir un cliente nuevo cuesta mucho más que retener uno. La lealtad es tu activo más rentable." },
-        { "title": "Experiencia inconsistente", "text": "Cuando cada punto de contacto se siente distinto, la marca pierde confianza. La coherencia construye lealtad." },
-        { "title": "Procesos fríos", "text": "La tecnología mal implementada aleja. Bien usada, hace que cada interacción se sienta cercana." },
-        { "title": "Decidir sin datos", "text": "Sin medir la experiencia, mejorarla es adivinar. Lo que no se mide, no se gestiona." }
+        {
+          "title": "Clientes que no regresan",
+          "text": "Conseguir un cliente nuevo cuesta mucho más que retener uno. La lealtad es tu activo más rentable."
+        },
+        {
+          "title": "Experiencia inconsistente",
+          "text": "Cuando cada punto de contacto se siente distinto, la marca pierde confianza. La coherencia construye lealtad."
+        },
+        {
+          "title": "Procesos fríos",
+          "text": "La tecnología mal implementada aleja. Bien usada, hace que cada interacción se sienta cercana."
+        },
+        {
+          "title": "Decidir sin datos",
+          "text": "Sin medir la experiencia, mejorarla es adivinar. Lo que no se mide, no se gestiona."
+        }
       ]
     },
     "services": {
@@ -195,25 +274,41 @@
         {
           "title": "Consultoría en Customer Experience",
           "promise": "Analizamos y rediseñamos la experiencia de tus clientes.",
-          "points": ["Diagnóstico de indicadores de CX", "Mapa del journey del cliente", "Recomendaciones con valor agregado"],
+          "points": [
+            "Diagnóstico de indicadores de CX",
+            "Mapa del journey del cliente",
+            "Recomendaciones con valor agregado"
+          ],
           "result": "Experiencias que diferencian tu marca de la competencia."
         },
         {
           "title": "Transformación digital",
           "promise": "Optimizamos cada punto de contacto con la tecnología correcta.",
-          "points": ["Implementación de CRM", "Chatbots e interacciones automatizadas", "Workspaces y procesos digitales"],
+          "points": [
+            "Implementación de CRM",
+            "Chatbots e interacciones automatizadas",
+            "Workspaces y procesos digitales"
+          ],
           "result": "Interacciones efectivas, cálidas y a escala."
         },
         {
           "title": "Comunidad y lealtad de marca",
           "promise": "Convertimos a tus clientes en una comunidad que te recomienda.",
-          "points": ["Estrategias de pertenencia y lealtad", "Comunidades de marca", "Programas de recomendación"],
+          "points": [
+            "Estrategias de pertenencia y lealtad",
+            "Comunidades de marca",
+            "Programas de recomendación"
+          ],
           "result": "Clientes que se quedan y traen a otros."
         },
         {
           "title": "Inteligencia de negocios",
           "promise": "Medimos la experiencia para tomar mejores decisiones.",
-          "points": ["Definición de indicadores (NPS, CSAT, CLV)", "Tableros de seguimiento", "Cultura de mejora continua"],
+          "points": [
+            "Definición de indicadores (NPS, CSAT, CLV)",
+            "Tableros de seguimiento",
+            "Cultura de mejora continua"
+          ],
           "result": "Decisiones basadas en datos, no en corazonadas."
         }
       ]
@@ -222,37 +317,161 @@
       "kicker": "El método Be Community",
       "title": "De la fricción a la fidelidad, en cuatro pasos.",
       "steps": [
-        { "title": "Diagnóstico CX", "text": "Medimos el estado actual de la experiencia de tus clientes y detectamos las fricciones." },
-        { "title": "Diseño del journey", "text": "Rediseñamos cada punto de contacto con foco en el cliente." },
-        { "title": "Implementación", "text": "Ponemos en marcha las herramientas digitales que hacen la diferencia." },
-        { "title": "Medición y mejora", "text": "Damos seguimiento a los indicadores y optimizamos de forma continua." }
+        {
+          "title": "Diagnóstico CX",
+          "text": "Medimos el estado actual de la experiencia de tus clientes y detectamos las fricciones."
+        },
+        {
+          "title": "Diseño del journey",
+          "text": "Rediseñamos cada punto de contacto con foco en el cliente."
+        },
+        {
+          "title": "Implementación",
+          "text": "Ponemos en marcha las herramientas digitales que hacen la diferencia."
+        },
+        {
+          "title": "Medición y mejora",
+          "text": "Damos seguimiento a los indicadores y optimizamos de forma continua."
+        }
       ]
     },
     "benefits": {
       "kicker": "Resultados",
       "title": "Lo que gana tu empresa.",
       "items": [
-        { "title": "Mayor retención", "text": "Clientes que regresan y aumentan su valor en el tiempo." },
-        { "title": "Marca recomendada", "text": "Clientes leales que se convierten en tus mejores promotores." },
-        { "title": "Procesos eficientes", "text": "Tecnología que ahorra tiempo y mejora cada interacción." },
-        { "title": "Decisiones con datos", "text": "Visibilidad clara de la experiencia para mejorar con certeza." }
+        {
+          "title": "Mayor retención",
+          "text": "Clientes que regresan y aumentan su valor en el tiempo."
+        },
+        {
+          "title": "Marca recomendada",
+          "text": "Clientes leales que se convierten en tus mejores promotores."
+        },
+        {
+          "title": "Procesos eficientes",
+          "text": "Tecnología que ahorra tiempo y mejora cada interacción."
+        },
+        {
+          "title": "Decisiones con datos",
+          "text": "Visibilidad clara de la experiencia para mejorar con certeza."
+        }
       ]
     },
     "faq": {
       "kicker": "Preguntas frecuentes",
       "title": "Lo que suelen preguntarnos las empresas.",
       "items": [
-        { "q": "¿Qué es Customer Experience y por qué importa?", "a": "Es la suma de todas las percepciones que tu cliente tiene al interactuar con tu marca. Una buena experiencia aumenta la retención, la recomendación y el valor de cada cliente." },
-        { "q": "¿Trabajan con PyMEs?", "a": "Sí. Diseñamos soluciones a la medida de pequeñas y medianas empresas, con alcance y presupuesto ajustados a tu etapa." },
-        { "q": "¿Qué herramientas implementan?", "a": "Trabajamos con CRM, chatbots, workspaces y tableros de inteligencia de negocios, siempre elegidos según tus necesidades reales." },
-        { "q": "¿Necesito tener ya un CRM?", "a": "No. Podemos empezar desde cero: te ayudamos a elegir e implementar las herramientas adecuadas para tu operación." },
-        { "q": "¿Atienden empresas fuera de CDMX?", "a": "Nuestra base está en la Zona Metropolitana de la CDMX y acompañamos empresas en otras regiones de forma presencial y remota." }
+        {
+          "q": "¿Qué es Customer Experience y por qué importa?",
+          "a": "Es la suma de todas las percepciones que tu cliente tiene al interactuar con tu marca. Una buena experiencia aumenta la retención, la recomendación y el valor de cada cliente."
+        },
+        {
+          "q": "¿Trabajan con PyMEs?",
+          "a": "Sí. Diseñamos soluciones a la medida de pequeñas y medianas empresas, con alcance y presupuesto ajustados a tu etapa."
+        },
+        {
+          "q": "¿Qué herramientas implementan?",
+          "a": "Trabajamos con CRM, chatbots, workspaces y tableros de inteligencia de negocios, siempre elegidos según tus necesidades reales."
+        },
+        {
+          "q": "¿Necesito tener ya un CRM?",
+          "a": "No. Podemos empezar desde cero: te ayudamos a elegir e implementar las herramientas adecuadas para tu operación."
+        },
+        {
+          "q": "¿Atienden empresas fuera de CDMX?",
+          "a": "Nuestra base está en la Zona Metropolitana de la CDMX y acompañamos empresas en otras regiones de forma presencial y remota."
+        }
       ]
     },
     "cta": {
       "title": "¿Listo para convertir clientes",
       "titleEm": "en comunidad?",
       "button": "Agenda un diagnóstico"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Aviso de Privacidad | Be Community",
+      "description": "Aviso de privacidad de Be Community conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares."
+    },
+    "kicker": "Legal",
+    "title": "Aviso de Privacidad",
+    "updatedLabel": "Última actualización",
+    "updatedDate": "5 de junio de 2025",
+    "lead": "Tu privacidad nos importa. Este aviso explica, con claridad, qué datos recabamos, para qué los usamos y cómo puedes ejercer tus derechos. En cumplimiento con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y su Reglamento, tus datos personales son protegidos, usados y almacenados conforme a los términos que aquí se establecen.",
+    "tocLabel": "En esta página",
+    "toc": {
+      "responsable": "Responsable",
+      "datos": "Datos que recabamos",
+      "finalidades": "Finalidades",
+      "transferencias": "Transferencias",
+      "arco": "Derechos ARCO",
+      "limitacion": "Limitación de uso",
+      "cambios": "Cambios al aviso",
+      "contacto": "Contacto"
+    },
+    "responsable": {
+      "title": "Responsable del tratamiento",
+      "body": "Be Community es el responsable del tratamiento de tus datos personales y se compromete a protegerlos conforme a la legislación aplicable."
+    },
+    "datos": {
+      "title": "Datos que recabamos",
+      "intro": "Los datos personales que podemos recabar incluyen las siguientes categorías:",
+      "items": [
+        {
+          "title": "Identificación",
+          "desc": "Nombre, nacionalidad, CURP y RFC."
+        },
+        {
+          "title": "Contacto",
+          "desc": "Dirección, teléfono y correo electrónico."
+        },
+        {
+          "title": "Laborales y económicos",
+          "desc": "Puesto e institución educativa."
+        },
+        {
+          "title": "Otros",
+          "desc": "Cualquier otro dato necesario para nuestras actividades."
+        }
+      ]
+    },
+    "finalidades": {
+      "title": "¿Para qué usamos tus datos?",
+      "intro": "Tus datos serán utilizados para las siguientes finalidades:",
+      "items": [
+        "Proveer los servicios y productos solicitados.",
+        "Administrar la relación comercial o laboral.",
+        "Notificarte sobre cambios en nuestros productos o servicios.",
+        "Cumplir con las obligaciones legales aplicables."
+      ]
+    },
+    "transferencias": {
+      "title": "Transferencia de datos",
+      "intro": "Tus datos podrán ser transferidos a terceros únicamente en los siguientes casos:",
+      "items": [
+        "Cuando sea necesario para la prestación de servicios o el cumplimiento de obligaciones.",
+        "Cuando autorices expresamente la transferencia."
+      ]
+    },
+    "arco": {
+      "title": "Tus Derechos ARCO",
+      "body": "Tienes derecho a Acceder, Rectificar y Cancelar tus datos personales, así como a Oponerte a su uso. Para ejercer cualquiera de estos derechos, envía tu solicitud al siguiente correo, en los términos que establece la ley."
+    },
+    "limitacion": {
+      "title": "Limitación de uso y divulgación",
+      "body": "Para limitar el uso y la divulgación de tus datos, puedes solicitarlo a través del mismo medio de contacto."
+    },
+    "cambios": {
+      "title": "Cambios al aviso",
+      "body": "Nos reservamos el derecho de modificar el presente aviso en cualquier momento. Cualquier cambio será informado mediante su publicación en nuestro sitio web o vía correo electrónico."
+    },
+    "contacto": {
+      "title": "Contacto",
+      "body": "Para dudas, solicitudes o para ejercer tus derechos, contáctanos:",
+      "emailLabel": "Correo",
+      "phoneLabel": "Teléfono",
+      "phone": "+52 55 5351 6276"
     }
   }
 }

@@ -10,21 +10,15 @@ export function Hand({ color = "currentColor", size = 24, className, rotate = 0 
     <svg
       width={size}
       height={size}
-      viewBox="0 0 48 48"
+      viewBox="0 0 24 24"
       className={className}
       style={{ transform: rotate ? `rotate(${rotate}deg)` : undefined }}
-      fill={color}
       aria-hidden="true"
     >
-      {/* palma */}
-      <rect x="12" y="20" width="26" height="20" rx="9" />
-      {/* pulgar */}
-      <rect x="6" y="24.5" width="4.8" height="12.5" rx="2.4" transform="rotate(34 8.4 30.7)" />
-      {/* cuatro dedos */}
-      <rect x="14.6" y="11" width="4.8" height="15" rx="2.4" />
-      <rect x="20.6" y="7" width="4.8" height="19" rx="2.4" />
-      <rect x="26.7" y="8" width="4.8" height="18" rx="2.4" />
-      <rect x="32.8" y="12" width="4.8" height="14" rx="2.4" />
+      <path
+        fill={color}
+        d="M12 2c.6 0 1 .4 1 1v6h1V4c0-.6.4-1 1-1s1 .4 1 1v7h1V6c0-.6.4-1 1-1s1 .4 1 1v9c0 3.3-2.5 6-6 6-1.9 0-3.2-.7-4.2-1.7l-4-4c-.5-.5-.4-1.3.2-1.7.5-.3 1.2-.2 1.6.2L11 15V3c0-.6.4-1 1-1z"
+      />
     </svg>
   );
 }

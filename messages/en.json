@@ -91,10 +91,22 @@
       "kicker": "The challenge",
       "title": "Attrition gives no warning. Belonging can't be improvised.",
       "items": [
-        { "title": "Students who leave", "text": "Every family that switches schools takes enrollment, reputation and years of relationship with them. Retention is profitability." },
-        { "title": "Teachers who turn over", "text": "Teacher turnover breaks pedagogical continuity and the bond with families. Retaining talent means retaining community." },
-        { "title": "Little differentiation", "text": "When everyone promises 'educational quality', experience and belonging are what truly set you apart." },
-        { "title": "Distant families", "text": "A community that doesn't feel part of something won't recommend, defend or stay. Belonging is designed." }
+        {
+          "title": "Students who leave",
+          "text": "Every family that switches schools takes enrollment, reputation and years of relationship with them. Retention is profitability."
+        },
+        {
+          "title": "Teachers who turn over",
+          "text": "Teacher turnover breaks pedagogical continuity and the bond with families. Retaining talent means retaining community."
+        },
+        {
+          "title": "Little differentiation",
+          "text": "When everyone promises 'educational quality', experience and belonging are what truly set you apart."
+        },
+        {
+          "title": "Distant families",
+          "text": "A community that doesn't feel part of something won't recommend, defend or stay. Belonging is designed."
+        }
       ]
     },
     "services": {
@@ -104,25 +116,41 @@
         {
           "title": "Personalized education consulting",
           "promise": "We design value-added experiences that set your school apart.",
-          "points": ["Assessment of the current experience", "Value propositions that differ from competitors", "Safe, motivating and enriching environments"],
+          "points": [
+            "Assessment of the current experience",
+            "Value propositions that differ from competitors",
+            "Safe, motivating and enriching environments"
+          ],
           "result": "A school that stands out for what's lived, not just what's taught."
         },
         {
           "title": "Customer experience in community",
           "promise": "We optimize every touchpoint between the school and its community.",
-          "points": ["Experience map for students and families", "AI, virtual communities and business intelligence", "Processes that make every family feel part of it"],
+          "points": [
+            "Experience map for students and families",
+            "AI, virtual communities and business intelligence",
+            "Processes that make every family feel part of it"
+          ],
           "result": "Loyal communities that recommend and stay."
         },
         {
           "title": "Teacher talent coaching",
           "promise": "Happy teachers build unforgettable educational experiences.",
-          "points": ["Effective talent recruitment", "Emotional salary strategies", "Leadership development for principals"],
+          "points": [
+            "Effective talent recruitment",
+            "Emotional salary strategies",
+            "Leadership development for principals"
+          ],
           "result": "Less turnover, more commitment and a better climate."
         },
         {
           "title": "Differentiated educational marketing",
           "promise": "We communicate what makes your school unique to attract new families.",
-          "points": ["Brand and communication strategy", "Positioning as a reference in your area", "Integration into the Be Community network"],
+          "points": [
+            "Brand and communication strategy",
+            "Positioning as a reference in your area",
+            "Integration into the Be Community network"
+          ],
           "result": "More interested families and a brand that endures."
         }
       ]
@@ -131,31 +159,70 @@
       "kicker": "The Be Community method",
       "title": "From diagnosis to community, in four steps.",
       "steps": [
-        { "title": "Diagnosis", "text": "We listen to your community and measure the real experience of students, families and teachers." },
-        { "title": "Design", "text": "We create tailored strategies based on your school's needs and identity." },
-        { "title": "Implementation", "text": "We support the rollout with tools, processes and technology." },
-        { "title": "Measurement", "text": "We track indicators and adjust to sustain results." }
+        {
+          "title": "Diagnosis",
+          "text": "We listen to your community and measure the real experience of students, families and teachers."
+        },
+        {
+          "title": "Design",
+          "text": "We create tailored strategies based on your school's needs and identity."
+        },
+        {
+          "title": "Implementation",
+          "text": "We support the rollout with tools, processes and technology."
+        },
+        {
+          "title": "Measurement",
+          "text": "We track indicators and adjust to sustain results."
+        }
       ]
     },
     "benefits": {
       "kicker": "Results",
       "title": "What your school gains.",
       "items": [
-        { "title": "Higher retention", "text": "Less attrition and a more stable enrollment year over year." },
-        { "title": "Engaged families", "text": "A community that participates, recommends and defends your school." },
-        { "title": "Better teacher climate", "text": "Motivated teams that stay and raise the experience." },
-        { "title": "Differentiated brand", "text": "A school recognized for its community and its experience." }
+        {
+          "title": "Higher retention",
+          "text": "Less attrition and a more stable enrollment year over year."
+        },
+        {
+          "title": "Engaged families",
+          "text": "A community that participates, recommends and defends your school."
+        },
+        {
+          "title": "Better teacher climate",
+          "text": "Motivated teams that stay and raise the experience."
+        },
+        {
+          "title": "Differentiated brand",
+          "text": "A school recognized for its community and its experience."
+        }
       ]
     },
     "faq": {
       "kicker": "FAQ",
       "title": "What schools usually ask us.",
       "items": [
-        { "q": "How is Be Community different from a marketing agency?", "a": "We don't just communicate: we redesign your community's entire experience —students, families and teachers— so retention and belonging are real, not just a message." },
-        { "q": "Do you work with schools of any size?", "a": "Yes. We adapt the scope to the size and stage of each school, from small institutions to large communities." },
-        { "q": "How long does an engagement last?", "a": "It depends on the diagnosis. We design phased plans with clear deliverables and continuous measurement so you see progress within the first weeks." },
-        { "q": "Do you serve schools outside Mexico City?", "a": "Our base is in Greater Mexico City, but we support schools in other regions both in person and remotely." },
-        { "q": "How do we start?", "a": "With an initial diagnosis. Book a consult and let's talk about your community's needs." }
+        {
+          "q": "How is Be Community different from a marketing agency?",
+          "a": "We don't just communicate: we redesign your community's entire experience —students, families and teachers— so retention and belonging are real, not just a message."
+        },
+        {
+          "q": "Do you work with schools of any size?",
+          "a": "Yes. We adapt the scope to the size and stage of each school, from small institutions to large communities."
+        },
+        {
+          "q": "How long does an engagement last?",
+          "a": "It depends on the diagnosis. We design phased plans with clear deliverables and continuous measurement so you see progress within the first weeks."
+        },
+        {
+          "q": "Do you serve schools outside Mexico City?",
+          "a": "Our base is in Greater Mexico City, but we support schools in other regions both in person and remotely."
+        },
+        {
+          "q": "How do we start?",
+          "a": "With an initial diagnosis. Book a consult and let's talk about your community's needs."
+        }
       ]
     },
     "cta": {
@@ -182,10 +249,22 @@
       "kicker": "The challenge",
       "title": "A satisfied customer buys. A customer who belongs, stays.",
       "items": [
-        { "title": "Customers who don't return", "text": "Winning a new customer costs far more than keeping one. Loyalty is your most profitable asset." },
-        { "title": "Inconsistent experience", "text": "When every touchpoint feels different, the brand loses trust. Consistency builds loyalty." },
-        { "title": "Cold processes", "text": "Poorly implemented technology pushes people away. Done right, it makes every interaction feel close." },
-        { "title": "Deciding without data", "text": "Without measuring the experience, improving it is guessing. What isn't measured isn't managed." }
+        {
+          "title": "Customers who don't return",
+          "text": "Winning a new customer costs far more than keeping one. Loyalty is your most profitable asset."
+        },
+        {
+          "title": "Inconsistent experience",
+          "text": "When every touchpoint feels different, the brand loses trust. Consistency builds loyalty."
+        },
+        {
+          "title": "Cold processes",
+          "text": "Poorly implemented technology pushes people away. Done right, it makes every interaction feel close."
+        },
+        {
+          "title": "Deciding without data",
+          "text": "Without measuring the experience, improving it is guessing. What isn't measured isn't managed."
+        }
       ]
     },
     "services": {
@@ -195,25 +274,41 @@
         {
           "title": "Customer Experience consulting",
           "promise": "We analyze and redesign your customers' experience.",
-          "points": ["CX indicator assessment", "Customer journey mapping", "Value-added recommendations"],
+          "points": [
+            "CX indicator assessment",
+            "Customer journey mapping",
+            "Value-added recommendations"
+          ],
           "result": "Experiences that set your brand apart from competitors."
         },
         {
           "title": "Digital transformation",
           "promise": "We optimize every touchpoint with the right technology.",
-          "points": ["CRM implementation", "Chatbots and automated interactions", "Workspaces and digital processes"],
+          "points": [
+            "CRM implementation",
+            "Chatbots and automated interactions",
+            "Workspaces and digital processes"
+          ],
           "result": "Effective, warm interactions at scale."
         },
         {
           "title": "Community and brand loyalty",
           "promise": "We turn your customers into a community that recommends you.",
-          "points": ["Belonging and loyalty strategies", "Brand communities", "Referral programs"],
+          "points": [
+            "Belonging and loyalty strategies",
+            "Brand communities",
+            "Referral programs"
+          ],
           "result": "Customers who stay and bring others."
         },
         {
           "title": "Business intelligence",
           "promise": "We measure the experience to make better decisions.",
-          "points": ["Indicator definition (NPS, CSAT, CLV)", "Tracking dashboards", "A continuous-improvement culture"],
+          "points": [
+            "Indicator definition (NPS, CSAT, CLV)",
+            "Tracking dashboards",
+            "A continuous-improvement culture"
+          ],
           "result": "Decisions based on data, not hunches."
         }
       ]
@@ -222,37 +317,161 @@
       "kicker": "The Be Community method",
       "title": "From friction to loyalty, in four steps.",
       "steps": [
-        { "title": "CX diagnosis", "text": "We measure the current state of your customers' experience and detect friction." },
-        { "title": "Journey design", "text": "We redesign every touchpoint with a customer focus." },
-        { "title": "Implementation", "text": "We roll out the digital tools that make the difference." },
-        { "title": "Measure & improve", "text": "We track indicators and optimize continuously." }
+        {
+          "title": "CX diagnosis",
+          "text": "We measure the current state of your customers' experience and detect friction."
+        },
+        {
+          "title": "Journey design",
+          "text": "We redesign every touchpoint with a customer focus."
+        },
+        {
+          "title": "Implementation",
+          "text": "We roll out the digital tools that make the difference."
+        },
+        {
+          "title": "Measure & improve",
+          "text": "We track indicators and optimize continuously."
+        }
       ]
     },
     "benefits": {
       "kicker": "Results",
       "title": "What your company gains.",
       "items": [
-        { "title": "Higher retention", "text": "Customers who return and grow their value over time." },
-        { "title": "A recommended brand", "text": "Loyal customers who become your best promoters." },
-        { "title": "Efficient processes", "text": "Technology that saves time and improves every interaction." },
-        { "title": "Data-driven decisions", "text": "Clear visibility of the experience to improve with certainty." }
+        {
+          "title": "Higher retention",
+          "text": "Customers who return and grow their value over time."
+        },
+        {
+          "title": "A recommended brand",
+          "text": "Loyal customers who become your best promoters."
+        },
+        {
+          "title": "Efficient processes",
+          "text": "Technology that saves time and improves every interaction."
+        },
+        {
+          "title": "Data-driven decisions",
+          "text": "Clear visibility of the experience to improve with certainty."
+        }
       ]
     },
     "faq": {
       "kicker": "FAQ",
       "title": "What companies usually ask us.",
       "items": [
-        { "q": "What is Customer Experience and why does it matter?", "a": "It's the sum of every perception your customer has when interacting with your brand. A good experience raises retention, referrals and the value of each customer." },
-        { "q": "Do you work with SMBs?", "a": "Yes. We design solutions tailored to small and medium businesses, with scope and budget matched to your stage." },
-        { "q": "What tools do you implement?", "a": "We work with CRM, chatbots, workspaces and business-intelligence dashboards, always chosen for your real needs." },
-        { "q": "Do I need to already have a CRM?", "a": "No. We can start from scratch: we help you choose and implement the right tools for your operation." },
-        { "q": "Do you serve companies outside Mexico City?", "a": "Our base is in Greater Mexico City and we support companies in other regions both in person and remotely." }
+        {
+          "q": "What is Customer Experience and why does it matter?",
+          "a": "It's the sum of every perception your customer has when interacting with your brand. A good experience raises retention, referrals and the value of each customer."
+        },
+        {
+          "q": "Do you work with SMBs?",
+          "a": "Yes. We design solutions tailored to small and medium businesses, with scope and budget matched to your stage."
+        },
+        {
+          "q": "What tools do you implement?",
+          "a": "We work with CRM, chatbots, workspaces and business-intelligence dashboards, always chosen for your real needs."
+        },
+        {
+          "q": "Do I need to already have a CRM?",
+          "a": "No. We can start from scratch: we help you choose and implement the right tools for your operation."
+        },
+        {
+          "q": "Do you serve companies outside Mexico City?",
+          "a": "Our base is in Greater Mexico City and we support companies in other regions both in person and remotely."
+        }
       ]
     },
     "cta": {
       "title": "Ready to turn customers",
       "titleEm": "into community?",
       "button": "Book a diagnosis"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Notice | Be Community",
+      "description": "Be Community's privacy notice under Mexico's Federal Law on Protection of Personal Data Held by Private Parties."
+    },
+    "kicker": "Legal",
+    "title": "Privacy Notice",
+    "updatedLabel": "Last updated",
+    "updatedDate": "June 5, 2025",
+    "lead": "Your privacy matters to us. This notice explains, clearly, what data we collect, how we use it and how you can exercise your rights. In compliance with Mexico's Federal Law on Protection of Personal Data Held by Private Parties and its Regulations, your personal data is protected, used and stored under the terms set out here.",
+    "tocLabel": "On this page",
+    "toc": {
+      "responsable": "Controller",
+      "datos": "Data we collect",
+      "finalidades": "Purposes",
+      "transferencias": "Transfers",
+      "arco": "ARCO Rights",
+      "limitacion": "Use limitation",
+      "cambios": "Changes",
+      "contacto": "Contact"
+    },
+    "responsable": {
+      "title": "Data controller",
+      "body": "Be Community is responsible for processing your personal data and is committed to protecting it in accordance with applicable law."
+    },
+    "datos": {
+      "title": "Data we collect",
+      "intro": "The personal data we may collect includes the following categories:",
+      "items": [
+        {
+          "title": "Identification",
+          "desc": "Name, nationality, CURP and RFC."
+        },
+        {
+          "title": "Contact",
+          "desc": "Address, phone and email."
+        },
+        {
+          "title": "Employment & economic",
+          "desc": "Position and educational institution."
+        },
+        {
+          "title": "Other",
+          "desc": "Any other data necessary for our activities."
+        }
+      ]
+    },
+    "finalidades": {
+      "title": "How we use your data",
+      "intro": "Your data will be used for the following purposes:",
+      "items": [
+        "Provide the requested services and products.",
+        "Manage the commercial or employment relationship.",
+        "Notify you about changes to our products or services.",
+        "Comply with applicable legal obligations."
+      ]
+    },
+    "transferencias": {
+      "title": "Data transfers",
+      "intro": "Your data may be transferred to third parties only in the following cases:",
+      "items": [
+        "When necessary to provide services or fulfill obligations.",
+        "When you expressly authorize the transfer."
+      ]
+    },
+    "arco": {
+      "title": "Your ARCO Rights",
+      "body": "You have the right to Access, Rectify and Cancel your personal data, as well as to Oppose its use. To exercise any of these rights, send your request to the email below, under the terms established by law."
+    },
+    "limitacion": {
+      "title": "Limiting use and disclosure",
+      "body": "To limit the use and disclosure of your data, you may request it through the same contact channel."
+    },
+    "cambios": {
+      "title": "Changes to this notice",
+      "body": "We reserve the right to modify this notice at any time. Any changes will be communicated by publishing them on our website or via email."
+    },
+    "contacto": {
+      "title": "Contact",
+      "body": "For questions, requests or to exercise your rights, contact us:",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "phone": "+52 55 5351 6276"
     }
   }
 }

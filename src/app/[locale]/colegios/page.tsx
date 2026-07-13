@@ -11,8 +11,6 @@ import { Benefits } from "@/components/vertical/Benefits";
 import { FAQ } from "@/components/vertical/FAQ";
 import { VerticalCTA } from "@/components/vertical/VerticalCTA";
 
-export const runtime = 'edge';
-
 const NS = "colegiosPage";
 const PATH = "/colegios";
 

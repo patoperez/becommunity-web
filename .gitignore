@@ -7,10 +7,12 @@
 /build
 next-env.d.ts
 
-# cloudflare / wrangler
-/.vercel
+# cloudflare / opennext / wrangler
+/.open-next
 /.wrangler
+/.vercel
 .dev.vars
+cloudflare-env.d.ts
 
 # entorno
 .env
